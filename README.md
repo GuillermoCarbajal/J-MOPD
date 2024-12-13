@@ -21,8 +21,12 @@ git clone https://github.com/GuillermoCarbajal/J-MOPD.git
 
 ### Download deblurring models
 
-[Offset Prediction Network Model (256)](https://iie.fing.edu.uy/~carbajal/J-MOPD/crop256_GoPro/camera_shake_epoch50_epoch35_epoch40_epoch70_epoch70_epoch60_epoch15_epoch10_epoch25_epoch12_epoch12_epoch10_epoch10_epoch15_epoch12_epoch12_epoch28_epoch12_epoch12_epoch25_epoch25_epoch125_epoch150_epoch550_epoch800_epoch925_epoch1000.pkl)           
-[Restoration Network (256)](https://iie.fing.edu.uy/~carbajal/J-MOPD/crop256_GoPro/camera_shake_epoch50_epoch35_epoch40_epoch70_epoch70_epoch60_epoch15_epoch10_epoch25_epoch12_epoch12_epoch10_epoch10_epoch15_epoch12_epoch12_epoch28_epoch12_epoch12_epoch25_epoch25_epoch125_epoch150_epoch550_epoch800_epoch925_epoch1000_G.pkl)
+[Offset Prediction Network Model (256)](https://iie.fing.edu.uy/~carbajal/J-MOPD/crop256/crop256.pkl)           
+[Restoration Network (256)](https://iie.fing.edu.uy/~carbajal/J-MOPD/crop256/crop256_G.pkl)
+[Offset Prediction Network Model (320)](https://iie.fing.edu.uy/~carbajal/J-MOPD/crop256/crop320.pkl)           
+[Restoration Network (320)](https://iie.fing.edu.uy/~carbajal/J-MOPD/crop256/crop320_G.pkl)
+[Offset Prediction Network Model (GoPro 256)](https://iie.fing.edu.uy/~carbajal/J-MOPD/crop256/crop256_GoPro.pkl)           
+[Restoration Network (GoPro 256)](https://iie.fing.edu.uy/~carbajal/J-MOPD/crop256/crop256_GoPro_G.pkl)
 
 ### Deblur an image or a list of images
 ```
