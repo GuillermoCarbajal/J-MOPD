@@ -29,7 +29,7 @@ git clone https://github.com/GuillermoCarbajal/J-MOPD.git
 
 ### Deblur an image or a list of images
 ```
-python test_J-MOPD.py -b blurry_img_path --reblur_model reblur_model_path --nimbusr_model restoration_model_path --output_folder results
+python test_J-MOPD.py -b blurry_img_path --reblur_model reblur_model_path --restoration_network restoration_model_path --output_folder results
 ```
 
 ### Parameters
