@@ -46,11 +46,11 @@ Additional options:
 
 
 <p align="center">
-<img width="900" src="imgs/sat_images_examples.png?raw=true">
+<img width="900" src="imgs/J-MOPD_example.png?raw=true">
   </p>
 
 ## Aknowledgments 
-We thank the authors of [Deep Model-Based Super-Resolution with Non-Uniform Blur](https://arxiv.org/abs/2204.10109) for the Blind Deconvolution Network provided in https://github.com/claroche-r/DMBSR 
+We thank the authors of [Deep Model-Based Super-Resolution with Non-Uniform Blur](https://arxiv.org/abs/2204.10109) for the Non-Blind Deconvolution Network provided in https://github.com/claroche-r/DMBSR 
 
 
 Guillermo Carbajal was supported partially by Agencia Nacional de Investigacion e Innovación (ANII, Uruguay) `grant POS FCE 2018 1 1007783`. The experiments presented in this paper were carried out using ClusterUY (site: https://cluster.uy).
