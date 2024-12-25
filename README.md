@@ -42,14 +42,14 @@ Additional options:
   
 
 
-## Offsets Prediction Network Architecture
+## Offsets Prediction Network Architecture [2]
 <p align="center">
 <img width="900" src="imgs/offsets_network.png?raw=true">
   </p>
 
 
 ## Aknowledgments 
-We thank the authors of [Deep Model-Based Super-Resolution with Non-Uniform Blur](https://arxiv.org/abs/2204.10109) for the Non-Blind Deconvolution Network provided in https://github.com/claroche-r/DMBSR, and the authors of [Exposure Trajectory Recovery From Motion Blur](https://ieeexplore.ieee.org/document/9551756) for the code that is [publicly available](https://github.com/yjzhang96/Motion-ETR).  
+We thank the authors of [1][Deep Model-Based Super-Resolution with Non-Uniform Blur](https://arxiv.org/abs/2204.10109) for the Non-Blind Deconvolution Network provided in https://github.com/claroche-r/DMBSR, and the authors of [2][Exposure Trajectory Recovery From Motion Blur](https://ieeexplore.ieee.org/document/9551756) for the code that is [publicly available](https://github.com/yjzhang96/Motion-ETR).  
 
 
 Guillermo Carbajal was supported partially by Agencia Nacional de Investigacion e Innovación (ANII, Uruguay) `grant POS FCE 2018 1 1007783`. The experiments presented in this paper were carried out using ClusterUY (site: https://cluster.uy).
